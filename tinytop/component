@@ -1,0 +1,7 @@
+name = tinytop
+summary = tiny process viewer, replaces top/htop
+build = make
+run = ./tinytop
+test = ./tinytop --once
+install = make install
+uninstall = make uninstall
