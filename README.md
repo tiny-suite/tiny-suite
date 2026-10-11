@@ -14,6 +14,7 @@ Every project lives in its own repository under the [tiny-suite](https://github.
 | tinymake | tiny build tool | make | [tiny-suite/tinymake](https://github.com/tiny-suite/tinymake) |
 | tinyget | tiny HTTP client | curl | [tiny-suite/tinyget](https://github.com/tiny-suite/tinyget) |
 | tinyvcs | tiny version control | git (for small projects) | [tiny-suite/tinyvcs](https://github.com/tiny-suite/tinyvcs) |
+| tinycc | tiny C compiler front-end | gcc | [tiny-suite/tinycc](https://github.com/tiny-suite/tinycc) |
 
 ## registry
 
@@ -30,6 +31,7 @@ Clone every component into one folder so tinyctl can discover them:
     git clone https://github.com/tiny-suite/tinymake
     git clone https://github.com/tiny-suite/tinyget
     git clone https://github.com/tiny-suite/tinyvcs
+    git clone https://github.com/tiny-suite/tinycc
 
 Then:
 
