@@ -2,3 +2,6 @@ tinytile = https://github.com/tiny-suite/tinytile
 tinyctl = https://github.com/tiny-suite/tinyctl
 tinyfetch = https://github.com/tiny-suite/tinyfetch
 tinytop = https://github.com/tiny-suite/tinytop
+tinymake = https://github.com/tiny-suite/tinymake
+tinyget = https://github.com/tiny-suite/tinyget
+tinyvcs = https://github.com/tiny-suite/tinyvcs
