@@ -1,5 +1,4 @@
-*.o
-tinyctl/tinyctl
-tinyfetch/tinyfetch
-tinytop/tinytop
-tinytile/tinytile
+/tinytile/
+/tinyctl/
+/tinyfetch/
+/tinytop/
